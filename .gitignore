@@ -1,0 +1,18 @@
+# macOS and iCloud
+.DS_Store
+.git.nosync
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Files the notebooks write when re-run
+*.keras
+*.h5
+rnn-stock-price-prediction/predicted_vs_true_prices*.csv
+rnn-stock-price-prediction/final_test_predicted_vs_true_prices.csv
+
+# Zips and other downloads
+*.zip
