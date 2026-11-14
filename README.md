@@ -57,7 +57,7 @@ Open each notebook from inside its own folder. The diabetes project runs on any 
 
 ## About me
 
-**Rubaiyat Alam Ruhin**, Master of Data Science, University of Adelaide  
-[LinkedIn](https://linkedin.com/in/rubaiyatalamruhin) · [GitHub](https://github.com/ruhinb) · rubaiyatalam.ruhin@gmail.com
+**Rubaiyat (Ru) Ruhin**, Master of Data Science, University of Adelaide  
+[rubaiyat.dev](https://rubaiyat.dev) · [LinkedIn](https://linkedin.com/in/rubaiyatalamruhin) · [GitHub](https://github.com/ruhinb) · rubaiyatalam.ruhin@gmail.com
 
 My SQL and Power BI work is in [Data_Analysis_Projects](https://github.com/ruhinb/Data_Analysis_Projects).
